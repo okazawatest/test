@@ -1,1 +1,7 @@
 # test
+
+GitHubのテスト
+
+##メンバー
+
+*okazawatest
